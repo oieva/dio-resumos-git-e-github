@@ -1,5 +1,6 @@
 
-# Resumos Git e GitHub 
+# Resumos Git e GitHub <3
+
 
 Este projeto tem o intuito de aprimorar meus conhecimentos em git e github. 
 
